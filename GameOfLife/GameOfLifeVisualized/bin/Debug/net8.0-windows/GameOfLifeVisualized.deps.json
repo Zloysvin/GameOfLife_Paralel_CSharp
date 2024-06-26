@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameOfLifeVisualized/1.0.0": {
+        "runtime": {
+          "GameOfLifeVisualized.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameOfLifeVisualized/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

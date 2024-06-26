@@ -1,0 +1,14 @@
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\bin\Debug\net8.0\GameOfLife.exe
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\bin\Debug\net8.0\GameOfLife.deps.json
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\bin\Debug\net8.0\GameOfLife.runtimeconfig.json
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\bin\Debug\net8.0\GameOfLife.dll
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\bin\Debug\net8.0\GameOfLife.pdb
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\GameOfLife.AssemblyInfoInputs.cache
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\GameOfLife.AssemblyInfo.cs
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\GameOfLife.csproj.CoreCompileInputs.cache
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\GameOfLife.dll
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\refint\GameOfLife.dll
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\GameOfLife.pdb
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\GameOfLife.genruntimeconfig.cache
+D:\STUUFF\Programming\ChatWPF\GameOfLife\GameOfLife\obj\Debug\net8.0\ref\GameOfLife.dll
